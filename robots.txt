@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.dnwmtwd.cn/sitemap.xml
